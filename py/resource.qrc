@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>fc-logo.png</file>
+    <file>scan-user-line-svgrepo-com.svg</file>
+  </qresource>
+</RCC>
